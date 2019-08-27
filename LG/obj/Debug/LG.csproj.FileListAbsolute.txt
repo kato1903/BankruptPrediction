@@ -1,0 +1,7 @@
+C:\Users\Toprak\source\repos\Sirket Basarı Tahmini\LG\bin\Debug\LG.exe.config
+C:\Users\Toprak\source\repos\Sirket Basarı Tahmini\LG\bin\Debug\LG.exe
+C:\Users\Toprak\source\repos\Sirket Basarı Tahmini\LG\bin\Debug\LG.pdb
+C:\Users\Toprak\source\repos\Sirket Basarı Tahmini\LG\obj\Debug\LG.csprojAssemblyReference.cache
+C:\Users\Toprak\source\repos\Sirket Basarı Tahmini\LG\obj\Debug\LG.csproj.CoreCompileInputs.cache
+C:\Users\Toprak\source\repos\Sirket Basarı Tahmini\LG\obj\Debug\LG.exe
+C:\Users\Toprak\source\repos\Sirket Basarı Tahmini\LG\obj\Debug\LG.pdb
